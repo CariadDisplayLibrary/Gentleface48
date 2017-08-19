@@ -1,15 +1,15 @@
-Source: libdisplaycore-toolkit-gentleface48
+Source: libdisplaycore-icons-gentleface48
 Section: libraries
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-toolkit-gentleface48
+Package: libdisplaycore-icons-gentleface48
 Section: libraries
 Architecture: all
 XBSC-Group: DisplayCore
-XBSC-Subgroup: Toolkits
+XBSC-Subgroup: Icons
 Depends: libdisplaycore-core
 Provides: Gentleface48.h
 Description: Gentleface48 library
