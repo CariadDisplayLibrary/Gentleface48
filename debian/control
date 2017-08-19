@@ -1,11 +1,11 @@
-Source: libdisplaycore-core-gentleface48
+Source: libdisplaycore-toolkit-gentleface48
 Section: libraries
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-core-gentleface48
+Package: libdisplaycore-toolkit-gentleface48
 Section: libraries
 Architecture: all
 XBSC-Group: DisplayCore
