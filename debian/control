@@ -10,7 +10,7 @@ Section: libraries
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Icons
-Depends: libdisplaycore-core
+Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
 Provides: Gentleface48.h
 Description: Gentleface48 library
  The GentleFace icon set in 48x48 size for the MonoIcon widget system
