@@ -1,2 +1,3 @@
-Gentleface48.cpp libraries/DisplayCore/Gentleface48
-Gentleface48.h libraries/DisplayCore/Gentleface48
+library.json libraries/DisplayCore/Gentleface48
+library.properties libraries/DisplayCore/Gentleface48
+src libraries/DisplayCore/Gentleface48
