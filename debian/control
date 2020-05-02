@@ -1,16 +1,17 @@
-Source: libdisplaycore-icons-gentleface48
+Source: libcariad-icons-gentleface48
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-icons-gentleface48
+Package: libcariad-icons-gentleface48
+Replaces: libdisplaycore-icons-gentleface48
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Icons
-Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
+Depends: libcariad-core, libcariad-toolkit-monoicon
 Provides: Gentleface48.h
 Description: Gentleface48
  The GentleFace icon set in 48x48 size for the MonoIcon widget system
